@@ -7,10 +7,10 @@ attrs==20.3.0
 Babel==2.9.0
 backcall==0.2.0
 bleach==3.3.0
-Brotli @ file:///C:/ci/brotli-split_1602517705222/work
+brotli-python==1.0.9
 certifi==2020.12.5
 chardet==4.0.0
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+click==7.1.2
 colorama==0.4.4
 cycler==0.10.0
 dash @ file:///tmp/build/80754af9/dash_1611168717544/work
