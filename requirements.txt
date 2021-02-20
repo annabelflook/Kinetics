@@ -1,0 +1,125 @@
+alabaster==0.7.12
+antimony==2.12.0.3
+appdirs==1.4.4
+async-generator==1.10
+atomicwrites==1.4.0
+attrs==20.3.0
+Babel==2.9.0
+backcall==0.2.0
+bleach==3.3.0
+Brotli @ file:///C:/ci/brotli-split_1602517705222/work
+certifi==2020.12.5
+chardet==4.0.0
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+colorama==0.4.4
+cycler==0.10.0
+dash @ file:///tmp/build/80754af9/dash_1611168717544/work
+dash-bootstrap-components @ file:///home/conda/feedstock_root/build_artifacts/dash-bootstrap-components_1613239937
+691/work
+dash-core-components==1.3.1
+dash-html-components==1.0.1
+dash-renderer==1.1.2
+dash-table==4.4.1
+decorator==4.4.2
+defusedxml==0.6.0
+dill==0.3.3
+docutils==0.16
+entrypoints==0.3
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-Compress @ file:///tmp/build/80754af9/flask-compress_1605067594328/work
+future==0.18.2
+idna==2.10
+imagesize==1.2.0
+importlib-metadata==3.4.0
+iniconfig==1.1.1
+ipykernel==5.4.3
+ipython==7.16.1
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi==0.18.0
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+joblib==1.0.1
+jsonschema==3.2.0
+jupyter-client==6.1.11
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+libroadrunner==2.0.5
+lxml==4.6.2
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1603357981283/work
+mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multiprocess==0.70.11.1
+munch==2.5.0
+nbclient==0.5.2
+nbconvert==6.0.7
+nbformat==5.1.2
+nbsphinx==0.8.1
+nest-asyncio==1.5.1
+nose==1.3.7
+numpy==1.19.3
+olefile==0.46
+packaging==20.9
+pandas @ file:///C:/ci/pandas_1602088210462/work
+pandocfilters==1.4.3
+parso==0.8.1
+pathos==0.2.7
+phrasedml==1.1.1
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1609842634117/work
+plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
+pluggy==0.13.1
+pox==0.2.9
+ppft==1.6.6.3
+prompt-toolkit==3.0.16
+psutil==5.8.0
+py==1.10.0
+pycotools3==2.1.22
+Pygments==2.8.0
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyrsistent==0.17.3
+pytest==6.2.2
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-libcombine==0.2.10
+python-libnuml==1.1.3
+python-libsbml==5.19.0
+python-libsedml==2.0.15
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pywin32==300
+PyYAML==5.4.1
+pyzmq==22.0.3
+requests==2.25.1
+retrying==1.3.3
+rrplugins==2.0.4
+sbml2matlab==1.2.3
+scikit-learn==0.24.1
+scipy==1.5.4
+seaborn==0.11.1
+six @ file:///C:/ci/six_1605187303045/work
+sklearn==0.0
+snowballstemmer==2.1.0
+Sphinx==3.5.0
+sphinx-rtd-theme==0.5.1
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+tellurium==2.2.0
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.2
+tornado @ file:///C:/ci/tornado_1606942379977/work
+traitlets==4.3.3
+typing-extensions==3.7.4.3
+urllib3==1.26.3
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wincertstore==0.2
+zipp==3.4.0
+gunicorn==20.0.4
