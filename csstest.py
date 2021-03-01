@@ -1,14 +1,9 @@
-from flask import Flask
-import pandas as pd
-import PyCoTools as pct
-
-from dash import Dash
-import dash_html_components as html
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
-from dash.dependencies import Input, Output
-
+import dash_html_components as html
+import pandas as pd
 import plotly.express as px
+from dash import Dash
 
 # Load data
 # --------------------------------------------
